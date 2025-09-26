@@ -1,0 +1,40 @@
+#widget-bar
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    flex-wrap: wrap;
+}
+
+#widget-bar h2
+{
+    font-size: calc(18px + 0.5vw);
+    color: #03045e;
+}
+
+#dashboard-options
+{
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#dashboard-options button
+{
+    background-color: white;
+    border: 0.5px solid gray;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#dashboard-options select
+{
+    background-color: white;
+    height: 30px;
+    border: 0.5px solid gray;
+    border-radius: 5px;
+}

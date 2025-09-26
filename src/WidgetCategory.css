@@ -1,0 +1,26 @@
+.widget-category
+{
+    margin:20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.widget-category h3
+{
+    font-size: calc(16px + 0.4vw);
+    margin: 0px;
+    margin-left: 1vw;
+    color: #03045e;
+}
+
+.widgets-set
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#add-widget
+{
+    height:101px;
+}

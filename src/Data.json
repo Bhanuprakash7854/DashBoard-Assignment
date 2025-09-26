@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "CSPM Executive Dashboard",
+      "widgets": [
+        {
+          "id": 101,
+          "title": "Summary",
+          "info": "Overview of the executive metrics"
+        },
+        {
+          "id": 102,
+          "title": "Top Findings",
+          "info": "Critical issues identified in the system"
+        },
+        {
+          "id": 103,
+          "title": "Java",
+          "info": "Object oriented programming language"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Operations",
+      "widgets": [
+        {
+          "id": 201,
+          "title": "Ops Status",
+          "info": "Current status of operations workflow"
+        },
+        {
+          "id": 202,
+          "title": "Resource Utilization",
+          "info": "CPU, Memory, and Storage usage across systems"
+        },
+        {
+          "id": 203,
+          "title": "Top Findings",
+          "info": "Critical issues identified in the system"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Compliance",
+      "widgets": [
+        {
+          "id": 301,
+          "title": "Compliance Check",
+          "info": "Monitoring compliance against set standards"
+        },
+        {
+          "id": 302,
+          "title": "Policy Violations",
+          "info": "List of current policy violations with severity"
+        }
+      ]
+    }
+  ]
+}
